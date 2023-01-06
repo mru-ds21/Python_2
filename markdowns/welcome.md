@@ -1,5 +1,5 @@
 # Welcome!
 
-This Python template, a quickly with a simple working example. 
+Python template, a quick and simple working example. 
 
 
